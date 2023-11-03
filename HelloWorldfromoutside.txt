@@ -1,2 +1,0 @@
-jhjkhjhjkhjkhjkjhkhkjhk
-localhost:8080/job/HelloWorld_fromoutside/build?token=jhjkhjhjkhjkhjkjhkhkjhk
